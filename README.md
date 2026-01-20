@@ -18,3 +18,7 @@ sudo ./sys-snapshot --outdir /tmp/snap --since 24h --pack
 --html=false — не генерить html
 
 --pack — +tar
+
+Пример репорта: 
+
+<img width="961" height="905" alt="image" src="https://github.com/user-attachments/assets/22a14a78-2fc1-441b-915d-9156a90708cf" />
